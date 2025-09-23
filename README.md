@@ -27,3 +27,9 @@ This project constructs a **Protein Structure Interaction Network (PSIN)** from 
 ```bash
 git clone https://github.com/YOUR_USERNAME/Protein-Network-Analysis.git
 cd Protein-Network-Analysis
+```
+2. **Installation Dependencies**
+
+```bash
+pip install -r requirements.txt
+```
